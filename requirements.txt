@@ -5,3 +5,4 @@ fastembed
 openai>=1.0.0
 python-dotenv 
 openai-agents
+edge_tts                                                                 
